@@ -23,13 +23,13 @@
   margin-top: 10px;
   flex-basis: calc(100% / 3 - 20px);
 }
-#counter {
+/* #counter {
   display: flex;
   flex-direction: column;
-}
-#value {
+} */
+/* #value {
   text-align: center;
-}
+} */
 
 #validation-input {
   border: 3px solid #bdbdbd;
